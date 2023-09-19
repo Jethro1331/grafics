@@ -1,2 +1,4 @@
 D:\Visual Studo Projects\lab1\lab1\x64\Debug\lab1.exe
 C:\Users\ivily\Documents\GitHub\grafics\lab1\x64\Debug\lab1.exe
+C:\Users\user\Documents\github\grafics\lab1\x64\Debug\lab1.exe
+C:\Users\user\Documents\github\grafics\lab1\x64\Debug\lab1.pdb

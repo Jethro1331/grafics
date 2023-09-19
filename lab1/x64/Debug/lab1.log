@@ -1,6 +1,2 @@
 ﻿  main.cpp
-C:\Users\ivily\Documents\GitHub\grafics\lab1\main.cpp(29,27): warning C4305: аргумент: усечение из "double" в "GLclampf"
-C:\Users\ivily\Documents\GitHub\grafics\lab1\main.cpp(29,21): warning C4305: аргумент: усечение из "double" в "GLclampf"
-C:\Users\ivily\Documents\GitHub\grafics\lab1\main.cpp(29,15): warning C4305: аргумент: усечение из "double" в "GLclampf"
-C:\Users\ivily\Documents\GitHub\grafics\lab1\main.cpp(64,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
-  lab1.vcxproj -> C:\Users\ivily\Documents\GitHub\grafics\lab1\x64\Debug\lab1.exe
+C:\Users\user\Documents\github\grafics\lab1\main.cpp(9,10): fatal error C1083: Не удается открыть файл включение: libs/glm/glm.hpp: No such file or directory,
